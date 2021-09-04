@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**MauriceJohannssen/MauriceJohannssen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+I'm Maurice, a 21-year old student from Nordhorn - Germany, which is located directly at the Dutch-German border.</br> I was interested in technology and games early on, reaching back to playing Donkey Kong on my grandpa's Game Boy. I was always curious about how things work the way they do, whether it's physics, music, or games. During high school, I discovered my passion for programming and knew that I want to build upon this interesting and exciting field, which is why I decided to study "Creative Media and Game Technologies" at Saxion UAS in Enschede - Netherlands. I always strive to create and learn about new, innovative and unconventional technologies to push forward and create awesome software.
+### Skills
+#### Languages
+* C#
+* C++
+* Python
+* HTML/CSS
+#### Engines & Frameworks
+* Unity
+* .NET
+* SFML
+#### Tools
+* Rider
+* CLion
+* Visual Studio & VS Code
+* Git & GitHub
+* vcpkg
+#### Team-based projects I worked on
+* Die Anstalt
+* Esquape
+* Lumberjacks Hell
+* Hear Yourself
+* Story Cache
