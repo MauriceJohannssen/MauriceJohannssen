@@ -7,7 +7,7 @@ I'm Maurice, a 21-year old student from Nordhorn - Germany, which is located dir
   * C#
   * C++
   * Python
-  * HTML/CSS
+  * HTML / CSS
 * Engines & Frameworks
   * Unity
   * .NET
