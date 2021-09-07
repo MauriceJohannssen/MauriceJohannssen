@@ -15,6 +15,9 @@ Engines & Frameworks
 > .NET </br>
 > SFML </br>
 
+Graphic APIs
+> OpenGL
+
 Tools
 > Rider / CLion </br>
 > Visual Studio / VS Code </br>
