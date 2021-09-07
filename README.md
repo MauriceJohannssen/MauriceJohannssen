@@ -19,7 +19,7 @@ Tools
 > Rider / CLion </br>
 > Visual Studio / VS Code </br>
 > Git & GitHub </br>
-> GitKraken / Fork
+> GitKraken / Fork </br>
 > vcpkg
 ***
 #### Team-based projects I worked on
