@@ -8,6 +8,7 @@ Languages
  > C# </br>
  > C++ </br>
  > Python </br>
+ > GLSL </br>
  > HTML / CSS </br>
 
 Engines & Frameworks
