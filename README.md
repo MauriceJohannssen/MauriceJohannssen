@@ -16,7 +16,6 @@ Engines & Frameworks
 > .NET </br>
 > SFML </br>
 > GLM </br>
-> TensorFlow </br>
 
 Graphic APIs
 > OpenGL
