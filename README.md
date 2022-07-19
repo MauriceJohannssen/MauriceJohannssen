@@ -25,8 +25,10 @@ Tools
 > Rider / CLion </br>
 > Visual Studio / VS Code </br>
 > Git & GitHub </br>
+> Perforce </br>
 > GitKraken / Fork </br>
 > vcpkg
+> Profiling (Unreal Insights, StompMalloc)
 ***
 #### Team-based projects I worked on
 > Die Anstalt </br>
