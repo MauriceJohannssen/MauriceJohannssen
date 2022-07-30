@@ -8,6 +8,7 @@ Languages
  > C# </br>
  > C++ </br>
  > Python </br>
+ > Lua </br>
  > GLSL </br>
  > HTML / CSS </br>
 
@@ -27,8 +28,8 @@ Tools
 > Git & GitHub </br>
 > Perforce </br>
 > GitKraken / Fork </br>
-> vcpkg
-> Profiling (Unreal Insights, StompMalloc)
+> vcpkg </br>
+> Profiling (Unreal Insights, StompMalloc) </br>
 ***
 #### Team-based projects I worked on
 > Die Anstalt </br>
