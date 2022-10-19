@@ -13,4 +13,3 @@ I'm Maurice, a 23-year old student from Nordhorn - Germany, which is located dir
 | GLSL          | GLM                      |                  | GitKraken \| Fork                        |
 | HTML \| CSS   |                          |                  | vcpkg                                    |
 |               |                          |                  | Profiling (Unreal Insights, StompMalloc) |
-***
