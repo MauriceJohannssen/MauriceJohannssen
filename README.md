@@ -6,17 +6,11 @@ I'm Maurice, a 23-year old student from Nordhorn - Germany, which is located dir
 #### Skills
 | **Languages** | **Engines & Frameworks** | **Graphic APIs** | **Tools**                                |
 |---------------|--------------------------|------------------|------------------------------------------|
-| C#            | Unity                    | OpenGL           | Rider / CLion                            |
-| C++           | Unreal Engine 4/5        |                  | Visual Studio / VS Code                  |
-| Python        | .NET                     |                  | Git & GitHub                             |
+| C#            | Unity                    | OpenGL           | Rider \| CLion                           |
+| C++           | Unreal Engine 4 \| 5     |                  | Visual Studio \| VS Code                 |
+| Python        | .NET                     |                  | Git \| GitHub                            |
 | Lua           | SFML                     |                  | Perforce                                 |
-| GLSL          | GLM                      |                  | GitKraken / Fork                         |
-| HTML/CSS      |                          |                  | vcpkg                                    |
+| GLSL          | GLM                      |                  | GitKraken \| Fork                        |
+| HTML \| CSS   |                          |                  | vcpkg                                    |
 |               |                          |                  | Profiling (Unreal Insights, StompMalloc) |
 ***
-#### Team-based projects I worked on
-> Die Anstalt </br>
-> Esquape </br>
-> Lumberjack's Hell </br>
-> Hear Yourself </br>
-> Story Cache </br>
