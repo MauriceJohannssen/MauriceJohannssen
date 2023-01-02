@@ -12,4 +12,4 @@ I'm Maurice, a 23-year old student from Nordhorn - Germany, which is located dir
 | Lua           | SFML                     |                  | Perforce                                 |
 | GLSL          | GLM                      |                  | GitKraken \| Fork                        |
 | HTML \| CSS   |                          |                  | vcpkg                                    |
-|               |                          |                  | Profiling (Unreal Insights, StompMalloc) |
+|               |                          |                  | Profiling (Unreal Insights,StompMalloc)  |
